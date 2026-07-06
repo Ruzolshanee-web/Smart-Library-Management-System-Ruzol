@@ -9,6 +9,6 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
-Student Name:
-Course:
-Section:
+Student Name: Shanee Margarreth Ruzol
+Course: IT 3012 - System Integration and Architecture 1
+Section: BSIT-BA-2D
